@@ -16,4 +16,4 @@
 export const SUPABASE_URL = 'https://cqvdapjvklvonxofjcaz.supabase.co';
 
 // Publishable key ('sb_publishable_...') oder - bei älteren Projekten - der anon key
-export const SUPABASE_KEY = 'sb_publishable_3lBCKMSJnRem_…';
+export const SUPABASE_KEY = 'sb_publishable_3lBCKMSJnRem_2cMlSYiWA_3eTXNBNR';
