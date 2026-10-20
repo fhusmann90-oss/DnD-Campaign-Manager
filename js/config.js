@@ -13,7 +13,7 @@
  */
 
 // Projekt-URL, z.B. 'https://abcdefghijklmnop.supabase.co'
-export const SUPABASE_URL = '';
+export const SUPABASE_URL = 'https://cqvdapjvklvonxofjcaz.supabase.co';
 
 // Publishable key ('sb_publishable_...') oder - bei älteren Projekten - der anon key
-export const SUPABASE_KEY = '';
+export const SUPABASE_KEY = 'sb_publishable_3lBCKMSJnRem_2cMlSYiWA_3eTXNBNR';
